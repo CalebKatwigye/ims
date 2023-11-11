@@ -1,6 +1,6 @@
 # ims
 
-A new Flutter project.
+This is a mobile application made with flutter and firebase.
 
 ## Getting Started
 
