@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450720717923",
+    "project_id": "imsm-541de",
+    "storage_bucket": "imsm-541de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450720717923:android:dcbce70e86a18b09c9ac56",
+        "android_client_info": {
+          "package_name": "com.example.ims"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-sMYR5hJbv67aY8lt3_BKIOiRy_WRfhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
